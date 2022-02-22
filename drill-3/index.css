@@ -1,0 +1,53 @@
+body{
+    height:100%;
+    width:100%;
+    margin:0;
+}
+header{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-color: gray;
+}
+#square{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(50, 104, 190);
+    margin:25px;
+}
+.paragraph{
+    padding: 25px 30px;
+}
+
+.blue{
+    background-color: rgb(50, 104, 190);
+    height: 200px;
+    width: 100%;
+}
+.lightblue{
+    background-color: aqua;
+    height: 200px;
+    width: 100%;
+}
+.green{
+    background-color: aquamarine;
+    height: 200px;
+    width: 100%;
+}
+.yellow{
+    background-color: yellow;
+    height: 200px;
+    width: 100%;
+}
+button{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    height: 60px;
+    width: 60px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 30px;
+}

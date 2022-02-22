@@ -1,0 +1,22 @@
+header{
+    background-color: darkgray;
+    height: 100px;
+    width:100%;
+}
+section{
+    display: flex;
+    height:100%;
+    width:100%;
+    align-items: baseline;
+}
+.sides{
+    height:500px;
+    width:100px;
+    background-color: gray;
+}
+#middle{
+    height:100px;
+    width:100%;
+    background-color: black;
+}
+
